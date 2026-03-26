@@ -68,19 +68,15 @@ This ensures that the project remains functional and ready for submission at all
 
 ### App Screenshots:
 Main screen
-
 <img width="407" height="903" alt="Screenshot 2026-03-26 141429" src="https://github.com/user-attachments/assets/bc6b2922-5d5c-47a9-b337-5dafd22f072e" />
 
 Suggestion output
-
 <img width="408" height="883" alt="Screenshot 2026-03-26 141513" src="https://github.com/user-attachments/assets/4107658c-f2e5-4cf2-ae4d-c172a4acd8ed" />
 
 Error output
-
 <img width="391" height="881" alt="Screenshot 2026-03-26 141533" src="https://github.com/user-attachments/assets/5e3a5805-e50d-44a5-a784-8ae1a24891cf" />
 
 Reset output
-
 <img width="398" height="858" alt="Screenshot 2026-03-26 141548" src="https://github.com/user-attachments/assets/8ca25250-bcae-447a-b5a2-9dabc77ed5e1" />
 
 ### Video Demo:
