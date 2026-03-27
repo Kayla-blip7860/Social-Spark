@@ -7,7 +7,7 @@
 
 ## Links
 - **GitHub Repository**: [https://github.com/Kayla-blip7860/Social-Spark]
-- **YouTube Video**: [PASTE YOUR VIDEO LINK]
+- **YouTube Video**: [https://youtu.be/kULsejPpoXE]
 
 ---
 
@@ -81,7 +81,7 @@ Reset output
 
 ### Video Demo:
 A full demonstration of the app can be viewed here:  
-👉 [PASTE YOUR YOUTUBE LINK]
+👉 [https://youtu.be/kULsejPpoXE]
 
 ---
 
